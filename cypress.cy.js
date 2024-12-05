@@ -3,4 +3,8 @@ describe('Open Google', () => {
       cy.visit('https://www.google.com'); // Visit Google's homepage
     });
   });
+<<<<<<< Updated upstream
+=======
+  
+>>>>>>> Stashed changes
   
